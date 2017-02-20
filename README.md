@@ -90,7 +90,7 @@ values - styles.xml 에 몇가지를 추가하여야 한다.
 
 
 * 액티비티에서 플로팅 버튼(Floating action button) 사용할 때  
-	editText 에서 자동으로 플로팅 버튼 올라오게 / 안 올라오게 하는 것   
+	editText 에서 자동으로 플로팅 버튼 올라오게 / 안 올라오게 하는 것   <br/>
   	
   	manifest 에서 각 activity에 설정 해줘야 하는데 
 
