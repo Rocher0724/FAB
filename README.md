@@ -4,12 +4,13 @@
 
 #### 플로팅 버튼 라이브러리 
 	
-	compile 'com.github.clans:fab:1.6.4'
+	
+compile 'com.github.clans:fab:1.6.4'
 
-	이거 깔고 해줘야될게 많은데 일단 res폴더에 anim 이랑 ,drawable 폴더를 만들어야 하고 몇가지 파일들을 집어넣어야 한다.
-	values - styles.xml 에 몇가지를 추가하여야 한다.  
+이거 깔고 해줘야될게 많은데 일단 res폴더에 anim 이랑 ,drawable 폴더를 만들어야 하고 몇가지 파일들을 집어넣어야 한다.
+values - styles.xml 에 몇가지를 추가하여야 한다.  
 
-	*** 특이사항  :  menu 버튼의 경우 클릭리스너를 달아주지 않아도 animation작동을 한다. 애초에 그렇게 구성된 라이브러리인것 같다. 
+*** 특이사항  :  menu 버튼의 경우 클릭리스너를 달아주지 않아도 animation작동을 한다. 애초에 그렇게 구성된 라이브러리인것 같다. 
 
 
 #### :x:  xml 사용 예시 :
